@@ -1,0 +1,1 @@
+semantic segmentation using ResNet Encoder and FPN Decoder network Architecture. 
